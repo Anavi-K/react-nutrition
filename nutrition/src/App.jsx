@@ -1,5 +1,4 @@
 import FoodBox from "./components/FoodBox"
-import './App.css'
 
 function App() {
 
